@@ -1,1 +1,1 @@
-# netflix_projecct
+# netflix_project
